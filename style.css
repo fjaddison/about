@@ -67,6 +67,15 @@ header {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+.about-header {
+  border-bottom: 3px solid #ff462a;
+  font-weight: bold;
+}
+
+#skill-box i:hover {
+  color: #ff462a;
+}
+
 .header-link {
   font-size: 215%;
   font-family: "Monoton", cursive;
@@ -101,6 +110,7 @@ header {
   align-items: center;
   flex-direction: column;
 }
+
 h2 {
   letter-spacing: 2.5px;
   /* padding-bottom: 40px;  */
