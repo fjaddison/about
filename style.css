@@ -86,7 +86,7 @@ header {
 } 
 
 main {
-  padding: 0 110px;
+  padding: 0 80px;
   background-color: #26a6e8;
   display: flex;
   flex-direction: row-reverse;
