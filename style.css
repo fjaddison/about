@@ -55,13 +55,14 @@ header {
 
 .about-text {
   width: 40%;
+  font-size: 17px;
   font-family: 'Source Sans Pro', sans-serif;
   margin-top: -10px;
 }
 
 .about-header {
   font-weight: bold;
-  font-size: 180%;
+  font-size: 150%;
 }
 
 #skill-box i:hover {
